@@ -1,0 +1,36 @@
+{
+	"name": "Material Theme - Deep Ocean variant",
+	"version": "1.0",
+	"description": "",
+	"manifest_version": 3,
+	"theme": {
+		"images": {
+			"theme_frame": "images/theme_frame.png"
+		},
+		"colors": {
+			"theme_tab_background": [15, 17, 26],
+			"theme_toolbar": [15, 17, 26],
+			"frame": [15, 17, 26],
+			"frame_inactive": [15, 17, 26],
+			"toolbar": [15, 17, 26],
+			"tab_text": [255, 255, 255],
+			"tab_background_text": [83, 89, 115],
+			"bookmark_text": [255, 255, 255],
+			"ntp_background": [15, 17, 26],
+			"ntp_text": [255, 255, 255],
+			"ntp_link": [6, 55, 116],
+			"button_background": [0, 0, 0, 0],
+			"omnibox_background": [15, 17, 26],
+			"omnibox_text": [255, 255, 255],
+			"tab_background_text_inactive": [83, 89, 115]
+		},
+		"tints": {
+			"buttons": [0, 0, 1],
+			"frame_inactive": [15, 17, 26]
+		},
+		"properties": {
+			"ntp_background_alignment": "bottom",
+			"ntp_background_repeat": "no-repeat"
+		}
+	}
+}
